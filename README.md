@@ -14,7 +14,7 @@
 
 🏆 Recognized with awards at TCS and an academic excellence award from PM Narendra Modi
 
-📫 Reach out via LinkedIn or email: kulaumbanu.1234@gmail.com or [LinkedIn](www.linkedin.com/in/kulasumbanu-diwan-992a99336)
+📫 Reach out via LinkedIn or email: kulaumbanu.1234@gmail.com or [LinkedIn] (www.linkedin.com/in/kulasumbanu-diwan-992a99336)
 
 ⚡ Fun fact: Passionate about data insights; certified in SQL, Excel Automation, Power BI, and Python
 
