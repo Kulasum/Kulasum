@@ -10,11 +10,11 @@
 
 - 💻 Specializes in **US Mortgage, Data Analysis, and Quality Control**
 
-- 🎓 Studying Data Science **at Masai School (since February 2024)**
+- 🎓 Studying Data Science **at Masai School**
 
 - 💼 8+ years at TCS **as Senior Process Associate**
 
-- 🤝 Open to collaboration on data science projects and Machine Learning
+- 🤝 Open to collaboration on Data Science projects and Machine Learning
 
 - 📫 Reach out via LinkedIn or email: kulaumbanu.1234@gmail.com or [LinkedIn] (www.linkedin.com/in/kulasumbanu-diwan-992a99336)
 
